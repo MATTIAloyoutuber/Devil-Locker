@@ -1,0 +1,8 @@
+Ransomware in python (SOLO A SCOPO EDUCATIVO E DIDATTICO.)
+NON SONO RESPONSABILE IN CASO DI DANNI.
+DEVIL LOCKER è UN RANSOMWARE SCRITTO IN PYTHON,DISTRUGGE IL MASTER BOOT RECORD , CANCELLA I FILE SUL DESKTOP,NEI DOWNLOAD E NEI VIDEO, DISATTIVA IL REGEDIT E DOPO 20 SECONDI SPEGNE IL PC.
+ECCO UNA DEMO
+![Screenshot 2024-04-25 115944](https://github.com/MATTIAloyoutuber/Devil-Locker/assets/164758246/e5ca6753-9f7a-404d-aac4-eacf4a81ee11)
+![Screenshot 2024-04-25 120006](https://github.com/MATTIAloyoutuber/Devil-Locker/assets/164758246/1155f436-fff4-4877-b00a-e13771290c6a)
+![Screenshot 2024-04-25 120023](https://github.com/MATTIAloyoutuber/Devil-Locker/assets/164758246/dd7ed1bd-baaa-4836-8c39-b332ebbe11e8)
+![Screenshot 2024-04-25 120033](https://github.com/MATTIAloyoutuber/Devil-Locker/assets/164758246/c92bc23b-55d2-4daf-869c-dd50323a7078)
